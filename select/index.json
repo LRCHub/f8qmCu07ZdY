@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "マラドーナ",
+  "base_artist": "韻踏合組合",
+  "createdAt": "2026-03-27T23:38:28.230216Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マラドーナ",
+      "artist": "韻踏合組合",
+      "has_synced": false,
+      "path": "select/pl_01_マラドーナ_韻踏合組合.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "マラドーナ",
+      "artist": "韻踏合組合",
+      "has_synced": false,
+      "path": "select/localdb_01_マラドーナ_韻踏合組合.txt",
+      "repo_name": "wgTPlAiEM1w"
+    }
+  ]
+}
